@@ -4,9 +4,9 @@ AV1 da disciplina Arquitetura de aplicações WEB da faculdade Newton Paiva
 # Projeto de API REST em Java com Spring Boot
 # 1. Implementar um endpoint "Hello World"
 Dependências:
-# Spring Web: Esta dependência inclui tudo o que você precisa para desenvolver aplicativos web, incluindo suporte para RESTful APIs, controle de requisições HTTP e configuração automática.
+* Spring Web: Esta dependência inclui tudo o que você precisa para desenvolver aplicativos web, incluindo suporte para RESTful APIs, controle de requisições HTTP e configuração automática.
 
-# Spring DevTools: Esta dependência fornece funcionalidades adicionais durante o desenvolvimento, como reinicialização automática da aplicação ao detectar mudanças no código, além de outras melhorias que facilitam o desenvolvimento.
+* Spring DevTools: Esta dependência fornece funcionalidades adicionais durante o desenvolvimento, como reinicialização automática da aplicação ao detectar mudanças no código, além de outras melhorias que facilitam o desenvolvimento.
 
 O endpoint deve receber um parâmetro e exibir uma mensagem personalizada na tela do navegador
 
