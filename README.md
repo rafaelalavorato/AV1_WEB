@@ -4,9 +4,10 @@ AV1 da disciplina Arquitetura de aplicações WEB da faculdade Newton Paiva
 # Projeto de API REST em Java com Spring Boot
 # 1. Implementar um endpoint "Hello World"
 Dependências:
-* Spring Web: Esta dependência inclui tudo o que você precisa para desenvolver aplicativos web, incluindo suporte para RESTful APIs, controle de requisições HTTP e configuração automática.
 
-* Spring DevTools: Esta dependência fornece funcionalidades adicionais durante o desenvolvimento, como reinicialização automática da aplicação ao detectar mudanças no código, além de outras melhorias que facilitam o desenvolvimento.
+<b>Spring Web:</b> Esta dependência inclui tudo o que você precisa para desenvolver aplicativos web, incluindo suporte para RESTful APIs, controle de requisições HTTP e configuração automática.
+
+<b>Spring DevTools:</b> Esta dependência fornece funcionalidades adicionais durante o desenvolvimento, como reinicialização automática da aplicação ao detectar mudanças no código, além de outras melhorias que facilitam o desenvolvimento.
 
 O endpoint deve receber um parâmetro e exibir uma mensagem personalizada na tela do navegador
 
@@ -16,12 +17,15 @@ Desenvolver uma API REST em Java, utilizando o Spring Framework, para consultar 
 Utilizar as seguintes APIs para consumir as informações da tabela FIPE:
 API FIPE de Deivid FortunaLinks to an external site.
 API FIPE ParallelumLinks to an external site.
-Estrutura do Projeto
+
+<b>Estrutura do Projeto</b>
+
 O projeto deve ser organizado da seguinte forma:
 
 Pacote controller: Contém as classes responsáveis por gerenciar as requisições HTTP e as respostas.
 Pacote service: Contém as classes que implementam a lógica de negócio e a comunicação com a API da tabela FIPE.
-Requisições da API FIPE
+
+<b>Requisições da API FIPE</b>
 As seguintes requisições devem ser implementadas:
 
 Para obter a lista de marcas:
