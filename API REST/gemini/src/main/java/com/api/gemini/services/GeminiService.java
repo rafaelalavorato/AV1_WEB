@@ -21,7 +21,7 @@ public class GeminiService {
     // Método público que gera conteúdo usando a API do Gemini
     public String generateContent() {
         // URL da API do Gemini com a chave de API
-        String url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyCeboiFs4_yuTF2636Jr0dMA9T7pZ1gO1w";
+        String url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyCgiqbw7QEXYym3cP9DzbCuv1QpP1mSYqw";
 
         // JSON de requisição que será enviado para a API
         String requestJson = "{\"contents\":[{\"parts\":[{\"text\":\"o que preciso para ser um engenheiro de dados?\"}]}]}";
